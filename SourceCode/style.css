@@ -1,3 +1,11 @@
+/* ## Add Resizable Textareas ## */
+textarea.gc-quicksms-text,
+.goog-inline-block textarea {
+	resize: both;
+}
+
+
+/* ## For Incremental Message Show ## */
 .gc-message-sms-old .gc-message-sms-row {
     display: none;
 }
