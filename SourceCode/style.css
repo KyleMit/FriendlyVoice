@@ -1,0 +1,6 @@
+.gc-message-sms-old .gc-message-sms-row {
+    display: none;
+}
+.gc-message-sms-old .gc-message-sms-row.showMessage {
+    display: block;
+}
